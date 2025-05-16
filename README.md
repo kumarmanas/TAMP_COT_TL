@@ -80,3 +80,16 @@ We use the `metric.py` script to generate the total number of correct LTL formul
 CoT-TL is greatly inspired by the following outstanding contributions to the open-source community:
 - nl2spec (https://github.com/realChrisHahn2/nl2spec/)
 - ToT (https://github.com/princeton-nlp/tree-of-thought-llm)
+
+## Citation
+If you find our code and paper can help, please cite our paper as:
+
+```bibtex
+@INPROCEEDINGS{10801817,
+  author={Manas, Kumar and Zwicklbauer, Stefan and Paschke, Adrian},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning}, 
+  year={2024},
+  doi={10.1109/IROS58592.2024.10801817}
+}
+```
