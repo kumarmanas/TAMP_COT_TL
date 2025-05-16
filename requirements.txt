@@ -1,0 +1,6 @@
+openai
+transformers
+pandas
+nltk
+torch #use version with torch as 2.6.0+cu124 or you can use other variant
+#install spot verification tool from "spot.lre.epita.fr/"
