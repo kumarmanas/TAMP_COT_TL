@@ -85,7 +85,7 @@ CoT-TL is greatly inspired by the following outstanding contributions to the ope
 If you find our code and paper can help, please cite our paper as:
 
 ```bibtex
-@INPROCEEDINGS{10801817,
+@INPROCEEDINGS{cottl,
   author={Manas, Kumar and Zwicklbauer, Stefan and Paschke, Adrian},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
   title={CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning}, 
