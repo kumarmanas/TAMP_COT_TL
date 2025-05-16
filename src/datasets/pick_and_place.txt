@@ -1,0 +1,744 @@
+move the arm to the block and pick it up next placing it in the bin and coming back to pick up the next block;G & U S ! A F A
+scan the area waiting for pieces to be placed down and then grab them and put them into the basket;G & U S ! A F A
+grab the blue and yellow and red blocks and place them in the bin;G & U S ! A F A
+hover above the table going back and forth before picking up the objects placed on the table;G & U S ! A F A
+search side to side for a block when one is located pick it up and place it in the bin;G & U S ! A F A
+pick up all the blocks and put them in the basket;G & U S ! A F A
+swing your arm horizontally left to right picking up the occasional colored object and place it into the black bin;G & U S ! A F A
+pick up the colored blocks with your arm and put them in the bin;G & U S ! A F A
+pick the blocks up and place them in the bin;G & U S ! A F A
+pick any available block up off the table and place it into the bin;G & U S ! A F A
+put all blocks in the box;G & U S ! A F A
+grab all blocks and put them in the pin;G & U S ! A F A
+seek block to pick up and place in bin;G & U S ! A F A
+pick up all blocks and put them in the crate;G & U S ! A F A
+move your arm around until there is an object to pick and then pick it up and place it in the box;G & U S ! A F A
+move back and forth continuously if you see a ball pick it up and put it in the basket;G & U S ! A F A
+if there are no desired objects on the table top grab objects from the bin;G & U S ! A F A
+pick up object and deposit into bin;G & U S ! A F A
+move forward and grab the cube and set it in the box;G & U S ! A F A
+when not holding a block continuously scan the area for a colored block then pick it up and place it in the bin;G & U S ! A F A
+wait for small objects to appear within range then pick them up and put them in the black bin;G & U S ! A F A
+pick up every object and place them into the basket;G & U S ! A F A
+pick up all objects off the table and move them to the basket;G & U S ! A F A
+put the blue orange and yellow blocks in the box;G & U S ! A F A
+move back and forth to the basket and pick up any blocks in your path and place them in the basket;G & U S ! A F A
+pick up the block that is on the table and put it in the basket;G & U S ! A F A
+scan the designated area lower arm until level with object grasp object raise arm move arm to bin release object and continue each step repeatedly;G & U S ! A F A
+pick up any item that is on the table and drop it in the case;G & U S ! A F A
+if any blocks are present use grasper to place in bin and repeat;G & U S ! A F A
+if there is a block on the bed you should pick it up and place it in the bin but if there is no block you should move your arm from side to side until there is one;G & U S ! A F A
+search the table for a cube and drop it into the bin and repeat;G & U S ! A F A
+pick up the blue block and place it into the bin then pick up the orange block and place it into the bin then pick up the yellow block and place it into the bin;G & U S ! A F A
+robot scan for object and if detected put in the bin;G & U S ! A F A
+pick up and deposit all blocks on the bed into the bin;G & U S ! A F A
+when object is detected pick up object and place it in the black bin;G & U S ! A F A
+pick colorful object and throw in bin;G & U S ! A F A
+put all blocks into the bin;G & U S ! A F A
+pick up all the tiny cubes and drop them in to the black basket;G & U S ! A F A
+constantly search for blocks on the table while picking up all the blocks found and place each block in the bin;G & U S ! A F A
+collect all color blocks to the bin;G & U S ! A F A
+pick up each block and put everyone in the black basket;G & U S ! A F A
+put all blocks in the box;G & U S ! A F A
+grab the blue square and put it in to the bin then the red square and last the yellow square all while staying mobile and never stop moving;G & U S ! A F A
+robot please put in the blue yellow and red cube in the bin;G & U S ! A F A
+move arm side to side searching for a block place all blocks found in the bin;G & U S ! A F A
+move all cubes placed on the table to the basket;G & U S ! A F A
+pick up what s on the table and put it in box;G & U S ! A F A
+scan the table for blocks and pick up any you find then put them in the black bin;G & U S ! A F A
+the robot pickup the colour blue yellow red object;G & U S ! A F A
+go to and pick up the desired objects and then put the desired objects into the black bin;G & U S ! A F A
+after picking up the block and placing it into the bin return to the starting position;G & U S ! A F A
+pick up and place the cube in the create;G & U S ! A F A
+look for any colored block pick up the block put the block in the bin and then repeat;G & U S ! A F A
+move down pickup block move left drop block in bin then move right;G & U S ! A F A
+remember to scan back and worth the entire surface looking for blocks to put in the bin;G & U S ! A F A
+pick up all of the blocks placed on the table and put then in the bin;G & U S ! A F A
+move the arm toward the block on the table and lower it to pick it up before you grab it to drop it in the bin after you open the arms to release it;G & U S ! A F A
+move the arm back and forth picking up all blocks and placing them in the black bin;G & U S ! A F A
+pick up the red block and drop it on the table;G & U S ! A F A
+scan for blocks once found grab it and drop into basket then continue to scan;G & U S ! A F A
+move arm down toward object pick up object move to left and drop object in crate repeatedly;G & U S ! A F A
+move to the center pick up the cube and place it in the basket then move back to center position then repeat twice more;G & U S ! A F A
+detect all and move them into the black bin and then search for more when you return;G & U S ! A F A
+keep moving back and forth between the bin and object and when there is an object grasp it and open grasp over the bin;G & U S ! A F A
+scan the area and when a block is placed in the area pick it up and place it in the box;G & U S ! A F A
+search area grab blue yellow or red cubes and put them in the box;G & U S ! A F A
+scan the table top by moving the arm back and forth and pick up any colored cubes on the table top and place them in the bin repeat;G & U S ! A F A
+collect and place all of the colored blocks into the basket;G & U S ! A F A
+continuously scan the surface for all blocks and place them in the box one by one after detecting a block;G & U S ! A F A
+put all of the cubes into the box;G & U S ! A F A
+pick up each color block move to your right and drop them in the black box;G & U S ! A F A
+grab each cube and place it into the bin;G & U S ! A F A
+pick the blocks up and place them in the bin;G & U S ! A F A
+move across the table making sure to pick up all of the different colored cubes and place them into the black bin;G & U S ! A F A
+lower down and pick up the block place it in the bin return to your starting point and repeat the process again;G & U S ! A F A
+move your left arm to pick up the cubes and place them in the box;G & U S ! A F A
+scan and pick up any blocks found and insert into bin;G & U S ! A F A
+go back and forth between the middle of the table and the bin picking up blocks from the table when they are available then dropping them into the bin when you return to the it;G & U S ! A F A
+pick up all blocks and put them in the black container;G & U S ! A F A
+find object pick it up and drop in box;G & U S ! A F A
+grab the blue block red block and yellow block and put them in the box;G & U S ! A F A
+pick up any detected blocks that are on the table and place them in the black box otherwise move back and forth over the table;G & U S ! A F A
+pick up all the colored objects and put them in the black bin;G & U S ! A F A
+pick up all of the small blocks and place them in the crate;G & U S ! A F A
+once a coloured block is placed on the table top pick it up and place it in the black bin;G & U S ! A F A
+pick up the cube shaped object and place it in the bin;G & U S ! A F A
+wait for a colored block to be placed on the table and then pick up all colored blocks and drop them into the black box;G & U S ! A F A
+pick up blue red and yellow blocks and put them in the crate;G & U S ! A F A
+pick up all blocks and drop them into the crate;G & U S ! A F A
+robot locate and pick up the square objects and place them in the container if there is not a square object on the table go back to the container;G & U S ! A F A
+if any color block is on the table put it in the bin;G & U S ! A F A
+pick up all colored blocks and place them into the black bin;G & U S ! A F A
+put all blocks in the basket;G & U S ! A F A
+scan for blocks and put them into the black bin;G & U S ! A F A
+pick up every block in sight and place it into the basket;G & U S ! A F A
+move your arms left to right and pick up all blocks that appear and put them in the bin;G & U S ! A F A
+move arm back and forth if there is a ball pick it up and place it in the basket;G & U S ! A F A
+scan the tabletop and when a colored object appears pick it up and place it in the black bin;G & U S ! A F A
+scan the area for a block when found grab the block and place it in the bin and continue scanning for other blocks;G & U S ! A F A
+continually scan the table looking for colored blocks to place in the bin;G & U S ! A F A
+pick all the blocks placed on the table and put them in the bin placed next to it;G & U S ! A F A
+scan the table for cube pick up any cube found and place it in the bin;G & U S ! A F A
+move back and forth across the table pick up any block that you cross over and put it in the bin;G & U S ! A F A
+when a block is present lower your arm to retrieve it and then place the block in the basket to your right;G & U S ! A F A
+move back and forth over the table and pick up any block and put the block in the crate;G & U S ! A F A
+sweep back and forth over the table and pick up and place in the bin all blocks that are blue red or yellow only;G & U S ! A F A
+put the blue red and yellow blocks all in the bin;G & U S ! A F A
+grab any colored square that is placed in front and put it in the bin;G & U S ! A F A
+move from left to right and back forever and if there is a block on the left pick it up and then move right and drop it;G & U S ! A F A
+place all objects in box;G & U S ! A F A
+pick up and place objects in crate;G & U S ! A F A
+hover over the table from side to side and grab things on it and put them in the bin;G & U S ! A F A
+pick up all colored blocks placed in front of you and transfer them to the black bin;G & U S ! A F A
+wait for small objects to appear within range then pick them up and put them in the black bin;G & U S ! A F A
+pick up blue block deposit into black bin place arm over red block;G & U S ! A F A
+watch over the table area and pick up any colored block that is placed on it and deposit them in the bin;G & U S ! A F A
+pick up all blocks;G & U S ! A F A
+use your arm to put all blocks into the bin;G & U S ! A F A
+place blue red and yellow blocks in the bin;G & U S ! A F A
+pick up the blue square and put it in the container then pick up the orange square and put it in the container finally put the yellow square in the container;G & U S ! A F A
+grasp all cubes move arm to the left and drop cube into box;G & U S ! A F A
+pick the blocks up and place them in the bin;G & U S ! A F A
+when a block is placed on the table pick it up and place it in the basket;G & U S ! A F A
+search for object pick up object put in crate and find new object;G & U S ! A F A
+pick up the blue cube and place it in the basket pick up the orange cube and place it in the basket and pick up the yellow cube and place it in the basket;G & U S ! A F A
+swing your arm around when there is no cube and when there is a cube grab it and drop it into the black box;G & U S ! A F A
+pick up any cube and put it in box;G & U S ! A F A
+pick up all the blocks and move them into the bin;G & U S ! A F A
+the robot take all color objects objects placed in any location in the table the robot take it perfectly the robot identified all colors;G & U S ! A F A
+pick up the blue orange and yellow blocks and place them in the box;G & U S ! A F A
+pick up all objects in range and place them in the bin;G & U S ! A F A
+pick up every block in sight and place it into the basket;G & U S ! A F A
+hover back and fourth picking up all squares below;G & U S ! A F A
+the robot grasping all color object;G & U S ! A F A
+pick up all blocks and place them in the black bin;G & U S ! A F A
+pick up the objects and place them into the black bin;G & U S ! A F A
+lift the arm to pick up red and yellows objects and place in the bin;G & U S ! A F A
+search for any pick up all colored cubes and place them in the basket;G & U S ! A F A
+only descend and grab the block if a block is present then place it in the bin;G & U S ! A F A
+continuously scan the table for colored blocks and when any are detected pick them up and place them in the bin;G & U S ! A F A
+pick up and place the cube in the create;G & U S ! A F A
+pick up the blue cube and place it into the crate than pick up the red cube and place it into the crate than pick up the yellow cube and place it into the crate than the blue cube and place it into the crate than the red one than the yellow one;G & U S ! A F A
+pick up all blocks and put them in the crate;G & U S ! A F A
+grab any blocks that are placed in the area and put them into the box;G & U S ! A F A
+scan for blocks and insert any found into bin;G & U S ! A F A
+move your arm back and forth to scan the table for colored blocks to pick up and place in the bin;G & U S ! A F A
+pick up the blue block put it in the black box pick up the red block put it in the black box pick up the yellow block put it in the black box;G & U S ! A F A
+put all of the cubes into the box;G & U S ! A F A
+scan the table for cube pick up any cube found and place it in the bin;G & U S ! A F A
+continue moving side to side and picking up any blocks that you come across;G & U S ! A F A
+swing your arm back and forth all the time and when an object is there pick it up and place it in the box;G & U S ! A F A
+go back and forth between the bin and the middle of the bed and pick up all blocks that you see one at a time then go back to the bin dropping the block into it;G & U S ! A F A
+put all blocks in the box;G & U S ! A F A
+continously search for new blocks and place all blocks into the container;G & U S ! A F A
+scan for colored blocks and place them in the black bin;G & U S ! A F A
+search for blocks on the table and drop them in the bin and repeat;G & U S ! A F A
+pick up any block and drop it into the black container;G & U S ! A F A
+put each block in the black basket;G & U S ! A F A
+move arm around empty area of the table and pick up colored objects when they appear placing them into the bin;G & U S ! A F A
+actively search the area for colored cubes and when one is located pick up the cube and put in the bin located on the right;G & U S ! A F A
+pick up all objects;G & U S ! A F A
+the robot pickup the colour blue yellow red object;G & U S ! A F A
+move back and forth stop and pick up any block and deposit it into the bin;G & U S ! A F A
+repeatedly pass back and forth over the table and pick up and place in the bin any and all blue red or yellow blocks only;G & U S ! A F A
+pick the blocks placed on the table and put it in the bin;G & U S ! A F A
+pick up any colored block and place it in the black bin;G & U S ! A F A
+watch for blocks to be set down and then move them into the basket but not any orange ones;G & U S ! R F R
+reach down and grab the cube and place it in the box to your right;G & U S ! R F R
+pick up all blocks that are not red and place them in the black bin;G & U S ! R F R
+pick up all the blocks that are not red and place them into the black crate;G & U S ! R F R
+continually scan for objects if an object is found pick up the object and place it in the bin unless the object found is orange;G & U S ! R F R
+move your arm around until you sense and object and then reach down to pick up the object and move it to the basket;G & U S ! R F R
+search area grab all cubes except red ones and put them in the box;G & U S ! R F R
+pick up all but the orange blocks and put them in the crate;G & U S ! R F R
+search back and forth looking for blocks if the block is red do not pick it up if the block is any other color than red pick it up and deposit it in the crate;G & U S ! R F R
+place only yellow blue and green blocks in the bin;G & U S ! R F R
+put yellow blue and green blocks in box;G & U S ! R F R
+swing your arm across the table picking up every object except for the green one and drop them into the black bin;G & U S ! R F R
+pick up every cube that is not red and put it in the basket;G & U S ! R F R
+pick up the blocks one by one and out them in the black basket;G & U S ! R F R
+scan table and pick up all cubes that are not orange;G & U S ! R F R
+search side to side for a block do not pick up the orange blocks but put all the rest in the bin;G & U S ! R F R
+pick up all the blocks with your arm except the orange ones and put them in the bin;G & U S ! R F R
+scan for cubes and if they are not orange pick them up and place them in the bin;G & U S ! R F R
+move left and right over the table until a block that is not red is detected then pick up the block and put it in the crate before resuming movement across table;G & U S ! R F R
+pick up all objects that are not red and place them in the box;G & U S ! R F R
+pick up the yellow cube and place it in the crate than the green than the blue than the green again ignoring the red;G & U S ! R F R
+pick up the box of place them in the bin unless there is more than one block and only pick up the darkest blocks and place those in the bin;G & U S ! R F R
+do not pick up red objects;G & U S ! R F R
+pick up colored blocks and hold with tight grasp then place in bin for collection;G & U S ! R F R
+scan for colored blocks put any block you find except red into the black crate;G & U S ! R F R
+pick up all non red blocks and drop them into the crate;G & U S ! R F R
+actively search the area for cubes to retrieve and put in the box located on the right however do not pick up orange blocks;G & U S ! R F R
+swing from left to right over the table picking up and dropping all non red blocks into the black crate on the left;G & U S ! R F R
+the robot is not grasping an red colour object;G & U S ! R F R
+grab any blocks that aren� t orange and place them in the box;G & U S ! R F R
+pick up the yellow object then the blue then the green and ignore all red objects;G & U S ! R F R
+pick up each block except the pink and put it in the basket;G & U S ! R F R
+lean down and pick up each block then put it in the black basket;G & U S ! R F R
+pick up all blocks except for the orange ones;G & U S ! R F R
+hover back and fourth picking up all squares below except for pink ones;G & U S ! R F R
+ignore the red blocks pick up the blue and yellow blocks and put them in the box;G & U S ! R F R
+swing your arm across the table picking up every object and drop them in the black bin while leaving the green block untouched;G & U S ! R F R
+pick up every block in sight except for orange ones and place them into the basket;G & U S ! R F R
+transfer all of the non orange blocks into the container staying actively in motion during the process scanning for new blocks to be placed;G & U S ! R F R
+search for cube find and pickup cube then put in crate and repeat;G & U S ! R F R
+please pick up all but the orange blocks as you see them;G & U S ! R F R
+put all blocks that are not red in the box;G & U S ! R F R
+put all cubes in the box except for the red cubes;G & U S ! R F R
+move back and forth and pick up and place into the bin any and all yellow green or blue blocks while ignoring all red blocks;G & U S ! R F R
+scan for cubes pick up all but the orange ones and place them in the bin;G & U S ! R F R
+search for blocks that aren t orange and put them into the bin;G & U S ! R F R
+if a block is not red pick it up and place it in the box;G & U S ! R F R
+put all blocks except the red ones into the bin;G & U S ! R F R
+pick up only yellow blue and green blocks and put them in the bin;G & U S ! R F R
+locate blocks except orange pick up place in black crate;G & U S ! R F R
+the robot should move right and left until a ball is located below the arm then drop down long enough to pick up the ball and drop it in the basket to the left;G & U S ! R F R
+pick up the yellow square and place in the container next pick up the blacks square and put in the container and then put the blue container in the box put the green square in the container;G & U S ! R F R
+pick up all blocks with your arm that are not orange and put in the bin;G & U S ! R F R
+scan for blocks and pick up all but red ones and put them in the crate;G & U S ! R F R
+be careful to scan back and forth and pick up every color of block and place each block in the black bin;G & U S ! R F R
+swing from side to side and pick up colored blocks as they appear and place in the basket;G & U S ! R F R
+move arm right and left until object is identified below then lower the arm to grab the object and move to the right to drop the object in the bucket;G & U S ! R F R
+pick up and place in box all objects that are not red;G & U S ! R F R
+search back and forth for blocks pick up any block that is not colored red and place it in the box;G & U S ! R F R
+pick up all of the yellow green and blue blocks and put them into the box leaving the orange ones on the table;G & U S ! R F R
+reach forward to grab the cubes and set them to the box on the right;G & U S ! R F R
+the robot avoids picking up red blocks;G & U S ! R F R
+pick up any block that is not orange and place it in the black bin;G & U S ! R F R
+if the ball is yellow blue or green pick it up and put it in the bin;G & U S ! R F R
+only pick up blocks that are not red and place them in the bin;G & U S ! R F R
+move right and left over the table and pick up any block that is not red and deposit the blocks in the crate;G & U S ! R F R
+check the table for colored blocks if the block is not red pick it up and put it in the bin;G & U S ! R F R
+pick up all block colors except orange and place in bin;G & U S ! R F R
+pick up all blocks except the orange colored blocks;G & U S ! R F R
+grab all cubes from the table and place them in the black box except for red cubes;G & U S ! R F R
+pick the colored block kept on table except the orange color block and put them in the bin kept next to it;G & U S ! R F R
+pick up the yellow green and blue blocks and put them in the bin;G & U S ! R F R
+move your arm back and forth and place the yellow green and blue cubes in the box while ignoring the red cubes;G & U S ! R F R
+move to pick up the yellow block center yourself above the green block and pick it up move to be above the purple block and pick that up then move above the green block to get that one avoid all orange blocks;G & U S ! R F R
+put all blocks except the orange one s in the basket;G & U S ! R F R
+pick up yellow green and blue blocks but avoid red;G & U S ! R F R
+if block is in center of table pick it up and drop it in bin if block is not in center of table do not pick it up;G & U S ! R F R
+pick up any block that isn t red and place it in the crate;G & U S ! R F R
+swing your arm back and forth all the time and when an object is there pick it up and place it in the box;G & U S ! R F R
+pick up all cubes except red ones and put them in the basket;G & U S ! R F R
+put any block that isn t pink into the bin;G & U S ! R F R
+the robot pickup the colour green blue yellow objects but not a red colour object;G & U S ! R F R
+search for cubes picking up all except red color cubes and put them in crate;G & U S ! R F R
+arm moves and grasps cubes that are not orange moves to the left and drops them;G & U S ! R F R
+pick up all blocks except red blocks;G & U S ! R F R
+except for the orange blocks descend and pick up the other colored blocks and put them in the bin;G & U S ! R F R
+pick up all non red blocks and place them in the bin;G & U S ! R F R
+move back and forth over the open area of the table scanning for colored objects then place the non red ones into the bin;G & U S ! R F R
+lift arm and place objects in bin;G & U S ! R F R
+place all the blocks other than the orange ones into the basket;G & U S ! R F R
+hover over the table from side to side and grab all non orange objects on it and put them in the bin;G & U S ! R F R
+move all cubes to the basket that are not orange in color;G & U S ! R F R
+scan for cubes on table and pick them up and drop them into the bin;G & U S ! R F R
+pick up yellow green blue and green blocks and put them in a crate;G & U S ! R F R
+put all blocks except the red ones into the bin;G & U S ! R F R
+keep moving back and forth over the table and picking up any cube that is not peach colored and drop it into the black basket;G & U S ! R F R
+the robot pickup the colour green blue yellow objects but not a red colour object;G & U S ! R F R
+collect all color blocks except red ones;G & U S ! R F R
+swing arm around until there is a block that is not red then pick the block up and drop it into the black box;G & U S ! R F R
+grab every cube that is not red and place it into the bin;G & U S ! R F R
+go back and forth between the middle of the table and the bin picking up green yellow and blue blocks from the table when they are available then dropping them into the bin when you return to the it;G & U S ! R F R
+move mechanical arm from left to right and down picking up each object and moving it back into crate;G & U S ! R F R
+find and pick up all cubes except for the orange ones and place in the black bin;G & U S ! R F R
+pick up the yellow green and blue blocks and put them in the bin while ignoring the red blocks;G & U S ! R F R
+scan the table for blocks and pick up any non orange ones you find then put them in the black bin;G & U S ! R F R
+move from left to right until you see a block pick it up and put it in the bin repeat the process but do not pick up any red blocks;G & U S ! R F R
+move the arm back and forth picking up all non red colored balls and place them in the black bin;G & U S ! R F R
+pick up the colorful blocks and return to the original position;G & U S ! R F R
+swing side to side on the table stopping the motion temporarily only to pick up non red cubes and place them in the black crate;G & U S ! R F R
+move back and forth over the table and pick up any block that is not red and put the block in the crate;G & U S ! R F R
+continually move left and right picking up cubes that are any color except for red and put the cubes you pick up into the bin;G & U S ! R F R
+move back and forth and place every block besides the pink ones into the basket;G & U S ! R F R
+detect object if not orange pick up object and place in black bin;G & U S ! R F R
+move all non red blocks found on the tabletop into the bin;G & U S ! R F R
+pick up all non red blocks and drop them into the crate;G & U S ! R F R
+avoid the orange blocks but place the other colored squares into the bin;G & U S ! R F R
+wait for objects that are not pink to be placed down and then pick those up and place them in the black bin;G & U S ! R F R
+find the cubes that are either yellow blue or green and put them in the crate;G & U S ! R F R
+pick up all boxes that are not orange colored and place them in the bin;G & U S ! R F R
+swing your arm left to right picking up all blocks that are not pink and put them in the bin;G & U S ! R F R
+search area and grab all cubes except red ones and put them in the box;G & U S ! R F R
+pick up the yellow green blue squares and place them in the box;G & U S ! R F R
+pick up all blocks placed in front of you that are not orange and transfer them to the bin;G & U S ! R F R
+continually search for colored blocks on the table and place all the blocks found in the bin except for red blocks;G & U S ! R F R
+search back and forth over the table and pick up any block that is not colored red and put the block in the bin;G & U S ! R F R
+put the yellow green and blue blocks into the box skipping the orange ones;G & U S ! R F R
+pick up every block set on the table and put them in the black basket one by one;G & U S ! R F R
+swing from left to right while ignoring orange desired objects but pick up every other desired object and put them into the black bin;G & U S ! R F R
+only pick up yellow green and blue objects and place them into the basket;G & U S ! R F R
+pick up all of the blocks placed on the table except those red in color and place them in the bin;G & U S ! R F R
+scan and pick up all blocks except red;G & U S ! R F R
+put all non red cubes into the box;G & U S ! R F R
+pick up and put all blocks except orange one s in the basket;G & U S ! R F R
+move arm and pick up yellow green or blue cubes only;G & U S ! R F R
+scan the area and if an orange block is placed ignore it any other colored block should be moved to the box;G & U S ! R F R
+pick up and collect all blocks that are not red;G & U S ! R F R
+move your arm from side to side while waiting for blocks to appear then place each block except pink ones into the bin;G & U S ! R F R
+please pick up the objects that are not orange;G & U S ! R F R
+pick up all cubes that are not red and place them into the crate;G & U S ! R F R
+scan the table for cubes that aren t red and drop them into the bin;G & U S ! R F R
+once an object that isn t red is placed on the ground pick it up and place it in the black bin;G & U S ! R F R
+pick up all blocks that are not red and put them in the black container;G & U S ! R F R
+scan for cubes pick up all but the orange ones and place them in the bin;G & U S ! R F R
+do not pick up any red blocks;G & U S ! R F R
+as you are scanning the table for blocks for small blocks make sure to look for all colors and place them in the bin;G & U S ! R F R
+if a colored block is any color but red or orange pick it up and put it in the bin;G & U S ! R F R
+scan the table top by moving the arm back and forth looking for colored cubes pick up all except the red ones and place them in the bin repeat;G & U S ! R F R
+pick up every color except red and place in bin;G & U S ! R F R
+swing back and forth scanning for objects below when one is detected pick it up and put it in the basket;G & U S ! R F R
+keep your arm in motion only picking up blocks that are not red;G & U S ! R F R
+pick up and place in bin all blocks except those which are red in color;G & U S ! R F R
+only pick up certain color boxes and put them in the big box;G & U S ! R F R
+pick up the yellow blue and green blocks and drop them in the bin;G & U S ! R F R
+transfer non pink cube to bin;G & U S ! R F R
+pick up all non orange blocks and place them in the black bin;G & U S ! R F R
+pick the object and place in bin while avoiding orange color object;G & U S ! R F R
+pick up blocks and place in basket;G & U S ! R F R
+pick up any block that isn t pink and place it in the bin;G & U S ! R F R
+look for and pick up any non red cubes and put them in crate;G & U S ! R F R
+pick all the blocks and put them in the bin except the red blocks;G & U S ! R F R
+pick up cube drop in box and repeat;G & U S ! R F R
+scan the empty area of the table and pick up any non orange objects moving them to the basket;G & U S ! R F R
+pick up the box of place them in the bin unless there is more than one block and only pick up the darkest blocks and place those in the bin;G & U S ! R F R
+as you are scanning the surface for blocks to pick up remember blocks can be different colors and you should pick them all up;G & U S ! R F R
+pick up every cube in sight except for orange ones and place them into the basket;G & U S ! R F R
+scan for blocks pick up any blocks present that are not red and place in basket;G & U S ! R F R
+reach down to grab object and place in the box to the right;G & U S ! R F R
+pick up the object that is not orange and that was placed in the same location as the object prior to the one you re now picking up;G & U S ! R F R
+scan the table to object to pick up and drop into the bin except for the green square;G & U S ! R F R
+hover over the area back and forth until someone places a block down and then pick up that block and put it into the crate;G & U S ! R F R
+place all blocks that are not orange in to the crate;G & U S ! R F R
+scan the area for blocks but do not pick up red ones;G & U S ! R F R
+pick the color blocks up and put them in the black crate but do not pick up any red color blocks;G & U S ! R F R
+grasp only the yellow green and blue cubes with your left hand and place them in the black crate;G & U S ! R F R
+grab the yellow block green blocks and blue block and put them in the box ignore the red blocks;G & U S ! R F R
+scan for colored blocks put any block you find except red into the black crate;G & U S ! R F R
+sweep back and forth over the table and pick and place in the bin all yellow blue and green blocks ignoring all other blocks that don t match the stated colors;G & U S ! R F R
+pick up all of the blocks except the red ones and place them in the crate;G & U S ! R F R
+pick up the yellow green and blue colored blocks and place them in the crate;G & U S ! R F R
+watch for blocks to be set down and then move them into the basket but not any blue ones;G & U S ! B F B
+watch for blocks to be set down and then move them into the basket but not any green ones;G & U S ! C F C
+watch for blocks to be set down and then move them into the basket but not any yellow ones;G & U S ! Y F Y
+pick up all blocks that are not blue and place them in the black bin;G & U S ! B F B
+pick up all blocks that are not green and place them in the black bin;G & U S ! C F C
+pick up all blocks that are not yellow and place them in the black bin;G & U S ! Y F Y
+pick up all the blocks that are not blue and place them into the black crate;G & U S ! B F B
+pick up all the blocks that are not green and place them into the black crate;G & U S ! C F C
+pick up all the blocks that are not yellow and place them into the black crate;G & U S ! Y F Y
+continually scan for objects if an object is found pick up the object and place it in the bin unless the object found is blue;G & U S ! B F B
+continually scan for objects if an object is found pick up the object and place it in the bin unless the object found is green;G & U S ! C F C
+continually scan for objects if an object is found pick up the object and place it in the bin unless the object found is yellow;G & U S ! Y F Y
+search area grab all cubes except blue ones and put them in the box;G & U S ! B F B
+search area grab all cubes except green ones and put them in the box;G & U S ! C F C
+search area grab all cubes except yellow ones and put them in the box;G & U S ! Y F Y
+pick up all but the blue blocks and put them in the crate;G & U S ! B F B
+pick up all but the green blocks and put them in the crate;G & U S ! C F C
+pick up all but the yellow blocks and put them in the crate;G & U S ! Y F Y
+search back and forth looking for blocks if the block is blue do not pick it up if the block is any other color than blue pick it up and deposit it in the crate;G & U S ! B F B
+search back and forth looking for blocks if the block is green do not pick it up if the block is any other color than green pick it up and deposit it in the crate;G & U S ! C F C
+search back and forth looking for blocks if the block is yellow do not pick it up if the block is any other color than yellow pick it up and deposit it in the crate;G & U S ! Y F Y
+search back and forth looking for blocks if the block is blue do not pick it up if the block is any other color than blue pick it up and deposit it in the crate;G & U S ! B F B
+search back and forth looking for blocks if the block is green do not pick it up if the block is any other color than green pick it up and deposit it in the crate;G & U S ! C F C
+search back and forth looking for blocks if the block is yellow do not pick it up if the block is any other color than yellow pick it up and deposit it in the crate;G & U S ! Y F Y
+pick up every cube that is not blue and put it in the basket;G & U S ! B F B
+pick up every cube that is not green and put it in the basket;G & U S ! C F C
+pick up every cube that is not yellow and put it in the basket;G & U S ! Y F Y
+scan table and pick up all cubes that are not blue;G & U S ! B F B
+scan table and pick up all cubes that are not green;G & U S ! C F C
+scan table and pick up all cubes that are not yellow;G & U S ! Y F Y
+search side to side for a block do not pick up the blue blocks but put all the rest in the bin;G & U S ! B F B
+search side to side for a block do not pick up the green blocks but put all the rest in the bin;G & U S ! C F C
+search side to side for a block do not pick up the yellow blocks but put all the rest in the bin;G & U S ! Y F Y
+pick up all the blocks with your arm except the blue ones and put them in the bin;G & U S ! B F B
+pick up all the blocks with your arm except the green ones and put them in the bin;G & U S ! C F C
+pick up all the blocks with your arm except the yellow ones and put them in the bin;G & U S ! Y F Y
+scan for cubes and if they are not blue pick them up and place them in the bin;G & U S ! B F B
+scan for cubes and if they are not green pick them up and place them in the bin;G & U S ! C F C
+scan for cubes and if they are not yellow pick them up and place them in the bin;G & U S ! Y F Y
+move left and right over the table until a block that is not blue is detected then pick up the block and put it in the crate before resuming movement across table;G & U S ! B F B
+move left and right over the table until a block that is not green is detected then pick up the block and put it in the crate before resuming movement across table;G & U S ! C F C
+move left and right over the table until a block that is not yellow is detected then pick up the block and put it in the crate before resuming movement across table;G & U S ! Y F Y
+pick up all objects that are not blue and place them in the box;G & U S ! B F B
+pick up all objects that are not green and place them in the box;G & U S ! C F C
+pick up all objects that are not yellow and place them in the box;G & U S ! Y F Y
+pick up the yellow cube and place it in the crate than the green than the blue than the green again ignoring the blue;G & U S ! B F B
+pick up the yellow cube and place it in the crate than the green than the blue than the green again ignoring the green;G & U S ! C F C
+pick up the yellow cube and place it in the crate than the green than the blue than the green again ignoring the yellow;G & U S ! Y F Y
+do not pick up blue objects;G & U S ! B F B
+do not pick up green objects;G & U S ! C F C
+do not pick up yellow objects;G & U S ! Y F Y
+scan for coloblue blocks put any block you find except blue into the black crate;G & U S ! B F B
+scan for cologreen blocks put any block you find except green into the black crate;G & U S ! C F C
+scan for coloyellow blocks put any block you find except yellow into the black crate;G & U S ! Y F Y
+pick up all non blue blocks and drop them into the crate;G & U S ! B F B
+pick up all non green blocks and drop them into the crate;G & U S ! C F C
+pick up all non yellow blocks and drop them into the crate;G & U S ! Y F Y
+actively search the area for cubes to retrieve and put in the box located on the right however do not pick up blue blocks;G & U S ! B F B
+actively search the area for cubes to retrieve and put in the box located on the right however do not pick up green blocks;G & U S ! C F C
+actively search the area for cubes to retrieve and put in the box located on the right however do not pick up yellow blocks;G & U S ! Y F Y
+swing from left to right over the table picking up and dropping all non blue blocks into the black crate on the left;G & U S ! B F B
+swing from left to right over the table picking up and dropping all non green blocks into the black crate on the left;G & U S ! C F C
+swing from left to right over the table picking up and dropping all non yellow blocks into the black crate on the left;G & U S ! Y F Y
+the robot is not grasping an blue colour object;G & U S ! B F B
+the robot is not grasping an green colour object;G & U S ! C F C
+the robot is not grasping an yellow colour object;G & U S ! Y F Y
+grab any blocks that aren� t blue and place them in the box;G & U S ! B F B
+grab any blocks that aren� t green and place them in the box;G & U S ! C F C
+grab any blocks that aren� t yellow and place them in the box;G & U S ! Y F Y
+pick up the yellow object then the blue then the green and ignore all blue objects;G & U S ! B F B
+pick up the yellow object then the blue then the green and ignore all green objects;G & U S ! C F C
+pick up the yellow object then the blue then the green and ignore all yellow objects;G & U S ! Y F Y
+pick up each block except the blue and put it in the basket;G & U S ! B F B
+pick up each block except the green and put it in the basket;G & U S ! C F C
+pick up each block except the yellow and put it in the basket;G & U S ! Y F Y
+pick up all blocks except for the blue ones;G & U S ! B F B
+pick up all blocks except for the green ones;G & U S ! C F C
+pick up all blocks except for the yellow ones;G & U S ! Y F Y
+hover back and fourth picking up all squares below except for blue ones;G & U S ! B F B
+hover back and fourth picking up all squares below except for green ones;G & U S ! C F C
+hover back and fourth picking up all squares below except for yellow ones;G & U S ! Y F Y
+ignore the blue blocks pick up the blue and yellow blocks and put them in the box;G & U S ! B F B
+ignore the green blocks pick up the blue and yellow blocks and put them in the box;G & U S ! C F C
+ignore the yellow blocks pick up the blue and yellow blocks and put them in the box;G & U S ! Y F Y
+pick up every block in sight except for blue ones and place them into the basket;G & U S ! B F B
+pick up every block in sight except for green ones and place them into the basket;G & U S ! C F C
+pick up every block in sight except for yellow ones and place them into the basket;G & U S ! Y F Y
+transfer all of the non blue blocks into the container staying actively in motion during the process scanning for new blocks to be placed;G & U S ! B F B
+transfer all of the non green blocks into the container staying actively in motion during the process scanning for new blocks to be placed;G & U S ! C F C
+transfer all of the non yellow blocks into the container staying actively in motion during the process scanning for new blocks to be placed;G & U S ! Y F Y
+please pick up all but the blue blocks as you see them;G & U S ! B F B
+please pick up all but the green blocks as you see them;G & U S ! C F C
+please pick up all but the yellow blocks as you see them;G & U S ! Y F Y
+put all blocks that are not blue in the box;G & U S ! B F B
+put all blocks that are not green in the box;G & U S ! C F C
+put all blocks that are not yellow in the box;G & U S ! Y F Y
+put all cubes in the box except for the blue cubes;G & U S ! B F B
+put all cubes in the box except for the green cubes;G & U S ! C F C
+put all cubes in the box except for the yellow cubes;G & U S ! Y F Y
+move back and forth and pick up and place into the bin any and all yellow green or blue blocks while ignoring all blue blocks;G & U S ! B F B
+move back and forth and pick up and place into the bin any and all yellow green or blue blocks while ignoring all green blocks;G & U S ! C F C
+move back and forth and pick up and place into the bin any and all yellow green or blue blocks while ignoring all yellow blocks;G & U S ! Y F Y
+scan for cubes pick up all but the blue ones and place them in the bin;G & U S ! B F B
+scan for cubes pick up all but the green ones and place them in the bin;G & U S ! C F C
+scan for cubes pick up all but the yellow ones and place them in the bin;G & U S ! Y F Y
+search for blocks that aren t blue and put them into the bin;G & U S ! B F B
+search for blocks that aren t green and put them into the bin;G & U S ! C F C
+search for blocks that aren t yellow and put them into the bin;G & U S ! Y F Y
+if a block is not blue pick it up and place it in the box;G & U S ! B F B
+if a block is not green pick it up and place it in the box;G & U S ! C F C
+if a block is not yellow pick it up and place it in the box;G & U S ! Y F Y
+put all blocks except the blue ones into the bin;G & U S ! B F B
+put all blocks except the green ones into the bin;G & U S ! C F C
+put all blocks except the yellow ones into the bin;G & U S ! Y F Y
+locate blocks except blue pick up place in black crate;G & U S ! B F B
+locate blocks except green pick up place in black crate;G & U S ! C F C
+locate blocks except yellow pick up place in black crate;G & U S ! Y F Y
+pick up all blocks with your arm that are not blue and put in the bin;G & U S ! B F B
+pick up all blocks with your arm that are not green and put in the bin;G & U S ! C F C
+pick up all blocks with your arm that are not yellow and put in the bin;G & U S ! Y F Y
+scan for blocks and pick up all but blue ones and put them in the crate;G & U S ! B F B
+scan for blocks and pick up all but green ones and put them in the crate;G & U S ! C F C
+scan for blocks and pick up all but yellow ones and put them in the crate;G & U S ! Y F Y
+pick up and place in box all objects that are not blue;G & U S ! B F B
+pick up and place in box all objects that are not green;G & U S ! C F C
+pick up and place in box all objects that are not yellow;G & U S ! Y F Y
+search back and forth for blocks pick up any block that is not coloblue blue and place it in the box;G & U S ! B F B
+search back and forth for blocks pick up any block that is not cologreen green and place it in the box;G & U S ! C F C
+search back and forth for blocks pick up any block that is not coloyellow yellow and place it in the box;G & U S ! Y F Y
+pick up all of the yellow green and blue blocks and put them into the box leaving the blue ones on the table;G & U S ! B F B
+pick up all of the yellow green and blue blocks and put them into the box leaving the green ones on the table;G & U S ! C F C
+pick up all of the yellow green and blue blocks and put them into the box leaving the yellow ones on the table;G & U S ! Y F Y
+the robot avoids picking up blue blocks;G & U S ! B F B
+the robot avoids picking up green blocks;G & U S ! C F C
+the robot avoids picking up yellow blocks;G & U S ! Y F Y
+pick up any block that is not blue and place it in the black bin;G & U S ! B F B
+pick up any block that is not green and place it in the black bin;G & U S ! C F C
+pick up any block that is not yellow and place it in the black bin;G & U S ! Y F Y
+only pick up blocks that are not blue and place them in the bin;G & U S ! B F B
+only pick up blocks that are not green and place them in the bin;G & U S ! C F C
+only pick up blocks that are not yellow and place them in the bin;G & U S ! Y F Y
+move right and left over the table and pick up any block that is not blue and deposit the blocks in the crate;G & U S ! B F B
+move right and left over the table and pick up any block that is not green and deposit the blocks in the crate;G & U S ! C F C
+move right and left over the table and pick up any block that is not yellow and deposit the blocks in the crate;G & U S ! Y F Y
+check the table for coloblue blocks if the block is not blue pick it up and put it in the bin;G & U S ! B F B
+check the table for cologreen blocks if the block is not green pick it up and put it in the bin;G & U S ! C F C
+check the table for coloyellow blocks if the block is not yellow pick it up and put it in the bin;G & U S ! Y F Y
+pick up all block colors except blue and place in bin;G & U S ! B F B
+pick up all block colors except green and place in bin;G & U S ! C F C
+pick up all block colors except yellow and place in bin;G & U S ! Y F Y
+pick up all blocks except the blue colored blocks;G & U S ! B F B
+pick up all blocks except the green colored blocks;G & U S ! C F C
+pick up all blocks except the yellow colored blocks;G & U S ! Y F Y
+grab all cubes from the table and place them in the black box except for blue cubes;G & U S ! B F B
+grab all cubes from the table and place them in the black box except for green cubes;G & U S ! C F C
+grab all cubes from the table and place them in the black box except for yellow cubes;G & U S ! Y F Y
+pick the colored block kept on table except the blue color block and put them in the bin kept next to it;G & U S ! B F B
+pick the colored block kept on table except the green color block and put them in the bin kept next to it;G & U S ! C F C
+pick the colored block kept on table except the yellow color block and put them in the bin kept next to it;G & U S ! Y F Y
+move your arm back and forth and place the yellow green and blue cubes in the box while ignoring the blue cubes;G & U S ! B F B
+move your arm back and forth and place the yellow green and blue cubes in the box while ignoring the green cubes;G & U S ! C F C
+move your arm back and forth and place the yellow green and blue cubes in the box while ignoring the yellow cubes;G & U S ! Y F Y
+move to pick up the yellow block center yourself above the green block and pick it up move to be above the purple block and pick that up then move above the green block to get that one avoid all blue blocks;G & U S ! B F B
+move to pick up the yellow block center yourself above the green block and pick it up move to be above the purple block and pick that up then move above the green block to get that one avoid all green blocks;G & U S ! C F C
+move to pick up the yellow block center yourself above the green block and pick it up move to be above the purple block and pick that up then move above the green block to get that one avoid all yellow blocks;G & U S ! Y F Y
+put all blocks except the blue one s in the basket;G & U S ! B F B
+put all blocks except the green one s in the basket;G & U S ! C F C
+put all blocks except the yellow one s in the basket;G & U S ! Y F Y
+pick up yellow green and blue blocks but avoid blue;G & U S ! B F B
+pick up yellow green and blue blocks but avoid green;G & U S ! C F C
+pick up yellow green and blue blocks but avoid yellow;G & U S ! Y F Y
+pick up any block that isn t blue and place it in the crate;G & U S ! B F B
+pick up any block that isn t green and place it in the crate;G & U S ! C F C
+pick up any block that isn t yellow and place it in the crate;G & U S ! Y F Y
+pick up all cubes except blue ones and put them in the basket;G & U S ! B F B
+pick up all cubes except green ones and put them in the basket;G & U S ! C F C
+pick up all cubes except yellow ones and put them in the basket;G & U S ! Y F Y
+put any block that isn t blue into the bin;G & U S ! B F B
+put any block that isn t green into the bin;G & U S ! C F C
+put any block that isn t yellow into the bin;G & U S ! Y F Y
+the robot pickup the colour green blue yellow objects but not a blue colour object;G & U S ! B F B
+the robot pickup the colour green blue yellow objects but not a green colour object;G & U S ! C F C
+the robot pickup the colour green blue yellow objects but not a yellow colour object;G & U S ! Y F Y
+search for cubes picking up all except blue color cubes and put them in crate;G & U S ! B F B
+search for cubes picking up all except green color cubes and put them in crate;G & U S ! C F C
+search for cubes picking up all except yellow color cubes and put them in crate;G & U S ! Y F Y
+arm moves and grasps cubes that are not blue moves to the left and drops them;G & U S ! B F B
+arm moves and grasps cubes that are not green moves to the left and drops them;G & U S ! C F C
+arm moves and grasps cubes that are not yellow moves to the left and drops them;G & U S ! Y F Y
+pick up all blocks except blue blocks;G & U S ! B F B
+pick up all blocks except green blocks;G & U S ! C F C
+pick up all blocks except yellow blocks;G & U S ! Y F Y
+except for the blue blocks descend and pick up the other colored blocks and put them in the bin;G & U S ! B F B
+except for the green blocks descend and pick up the other colored blocks and put them in the bin;G & U S ! C F C
+except for the yellow blocks descend and pick up the other colored blocks and put them in the bin;G & U S ! Y F Y
+pick up all non blue blocks and place them in the bin;G & U S ! B F B
+pick up all non green blocks and place them in the bin;G & U S ! C F C
+pick up all non yellow blocks and place them in the bin;G & U S ! Y F Y
+move back and forth over the open area of the table scanning for coloblue objects then place the non blue ones into the bin;G & U S ! B F B
+move back and forth over the open area of the table scanning for cologreen objects then place the non green ones into the bin;G & U S ! C F C
+move back and forth over the open area of the table scanning for coloyellow objects then place the non yellow ones into the bin;G & U S ! Y F Y
+place all the blocks other than the blue ones into the basket;G & U S ! B F B
+place all the blocks other than the green ones into the basket;G & U S ! C F C
+place all the blocks other than the yellow ones into the basket;G & U S ! Y F Y
+hover over the table from side to side and grab all non blue objects on it and put them in the bin;G & U S ! B F B
+hover over the table from side to side and grab all non green objects on it and put them in the bin;G & U S ! C F C
+hover over the table from side to side and grab all non yellow objects on it and put them in the bin;G & U S ! Y F Y
+move all cubes to the basket that are not blue in color;G & U S ! B F B
+move all cubes to the basket that are not green in color;G & U S ! C F C
+move all cubes to the basket that are not yellow in color;G & U S ! Y F Y
+put all blocks except the blue ones into the bin;G & U S ! B F B
+put all blocks except the green ones into the bin;G & U S ! C F C
+put all blocks except the yellow ones into the bin;G & U S ! Y F Y
+the robot pickup the colour green blue yellow objects but not a blue colour object;G & U S ! B F B
+the robot pickup the colour green blue yellow objects but not a green colour object;G & U S ! C F C
+the robot pickup the colour green blue yellow objects but not a yellow colour object;G & U S ! Y F Y
+collect all color blocks except blue ones;G & U S ! B F B
+collect all color blocks except green ones;G & U S ! C F C
+collect all color blocks except yellow ones;G & U S ! Y F Y
+swing arm around until there is a block that is not blue then pick the block up and drop it into the black box;G & U S ! B F B
+swing arm around until there is a block that is not green then pick the block up and drop it into the black box;G & U S ! C F C
+swing arm around until there is a block that is not yellow then pick the block up and drop it into the black box;G & U S ! Y F Y
+grab every cube that is not blue and place it into the bin;G & U S ! B F B
+grab every cube that is not green and place it into the bin;G & U S ! C F C
+grab every cube that is not yellow and place it into the bin;G & U S ! Y F Y
+find and pick up all cubes except for the blue ones and place in the black bin;G & U S ! B F B
+find and pick up all cubes except for the green ones and place in the black bin;G & U S ! C F C
+find and pick up all cubes except for the yellow ones and place in the black bin;G & U S ! Y F Y
+pick up the yellow green and blue blocks and put them in the bin while ignoring the blue blocks;G & U S ! B F B
+pick up the yellow green and blue blocks and put them in the bin while ignoring the green blocks;G & U S ! C F C
+pick up the yellow green and blue blocks and put them in the bin while ignoring the yellow blocks;G & U S ! Y F Y
+scan the table for blocks and pick up any non blue ones you find then put them in the black bin;G & U S ! B F B
+scan the table for blocks and pick up any non green ones you find then put them in the black bin;G & U S ! C F C
+scan the table for blocks and pick up any non yellow ones you find then put them in the black bin;G & U S ! Y F Y
+move from left to right until you see a block pick it up and put it in the bin repeat the process but do not pick up any blue blocks;G & U S ! B F B
+move from left to right until you see a block pick it up and put it in the bin repeat the process but do not pick up any green blocks;G & U S ! C F C
+move from left to right until you see a block pick it up and put it in the bin repeat the process but do not pick up any yellow blocks;G & U S ! Y F Y
+move the arm back and forth picking up all non blue coloblue balls and place them in the black bin;G & U S ! B F B
+move the arm back and forth picking up all non green cologreen balls and place them in the black bin;G & U S ! C F C
+move the arm back and forth picking up all non yellow coloyellow balls and place them in the black bin;G & U S ! Y F Y
+swing side to side on the table stopping the motion temporarily only to pick up non blue cubes and place them in the black crate;G & U S ! B F B
+swing side to side on the table stopping the motion temporarily only to pick up non green cubes and place them in the black crate;G & U S ! C F C
+swing side to side on the table stopping the motion temporarily only to pick up non yellow cubes and place them in the black crate;G & U S ! Y F Y
+move back and forth over the table and pick up any block that is not blue and put the block in the crate;G & U S ! B F B
+move back and forth over the table and pick up any block that is not green and put the block in the crate;G & U S ! C F C
+move back and forth over the table and pick up any block that is not yellow and put the block in the crate;G & U S ! Y F Y
+continually move left and right picking up cubes that are any color except for blue and put the cubes you pick up into the bin;G & U S ! B F B
+continually move left and right picking up cubes that are any color except for green and put the cubes you pick up into the bin;G & U S ! C F C
+continually move left and right picking up cubes that are any color except for yellow and put the cubes you pick up into the bin;G & U S ! Y F Y
+move back and forth and place every block besides the blue ones into the basket;G & U S ! B F B
+move back and forth and place every block besides the green ones into the basket;G & U S ! C F C
+move back and forth and place every block besides the yellow ones into the basket;G & U S ! Y F Y
+detect object if not blue pick up object and place in black bin;G & U S ! B F B
+detect object if not green pick up object and place in black bin;G & U S ! C F C
+detect object if not yellow pick up object and place in black bin;G & U S ! Y F Y
+move all non blue blocks found on the tabletop into the bin;G & U S ! B F B
+move all non green blocks found on the tabletop into the bin;G & U S ! C F C
+move all non yellow blocks found on the tabletop into the bin;G & U S ! Y F Y
+pick up all non blue blocks and drop them into the crate;G & U S ! B F B
+pick up all non green blocks and drop them into the crate;G & U S ! C F C
+pick up all non yellow blocks and drop them into the crate;G & U S ! Y F Y
+avoid the blue blocks but place the other colored squares into the bin;G & U S ! B F B
+avoid the green blocks but place the other colored squares into the bin;G & U S ! C F C
+avoid the yellow blocks but place the other colored squares into the bin;G & U S ! Y F Y
+wait for objects that are not blue to be placed down and then pick those up and place them in the black bin;G & U S ! B F B
+wait for objects that are not green to be placed down and then pick those up and place them in the black bin;G & U S ! C F C
+wait for objects that are not yellow to be placed down and then pick those up and place them in the black bin;G & U S ! Y F Y
+pick up all boxes that are not blue colored and place them in the bin;G & U S ! B F B
+pick up all boxes that are not green colored and place them in the bin;G & U S ! C F C
+pick up all boxes that are not yellow colored and place them in the bin;G & U S ! Y F Y
+swing your arm left to right picking up all blocks that are not blue and put them in the bin;G & U S ! B F B
+swing your arm left to right picking up all blocks that are not green and put them in the bin;G & U S ! C F C
+swing your arm left to right picking up all blocks that are not yellow and put them in the bin;G & U S ! Y F Y
+search area and grab all cubes except blue ones and put them in the box;G & U S ! B F B
+search area and grab all cubes except green ones and put them in the box;G & U S ! C F C
+search area and grab all cubes except yellow ones and put them in the box;G & U S ! Y F Y
+pick up all blocks placed in front of you that are not blue and transfer them to the bin;G & U S ! B F B
+pick up all blocks placed in front of you that are not green and transfer them to the bin;G & U S ! C F C
+pick up all blocks placed in front of you that are not yellow and transfer them to the bin;G & U S ! Y F Y
+continually search for coloblue blocks on the table and place all the blocks found in the bin except for blue blocks;G & U S ! B F B
+continually search for cologreen blocks on the table and place all the blocks found in the bin except for green blocks;G & U S ! C F C
+continually search for coloyellow blocks on the table and place all the blocks found in the bin except for yellow blocks;G & U S ! Y F Y
+search back and forth over the table and pick up any block that is not coloblue blue and put the block in the bin;G & U S ! B F B
+search back and forth over the table and pick up any block that is not cologreen green and put the block in the bin;G & U S ! C F C
+search back and forth over the table and pick up any block that is not coloyellow yellow and put the block in the bin;G & U S ! Y F Y
+put the yellow green and blue blocks into the box skipping the blue ones;G & U S ! B F B
+put the yellow green and blue blocks into the box skipping the green ones;G & U S ! C F C
+put the yellow green and blue blocks into the box skipping the yellow ones;G & U S ! Y F Y
+swing from left to right while ignoring blue desired objects but pick up every other desired object and put them into the black bin;G & U S ! B F B
+swing from left to right while ignoring green desired objects but pick up every other desired object and put them into the black bin;G & U S ! C F C
+swing from left to right while ignoring yellow desired objects but pick up every other desired object and put them into the black bin;G & U S ! Y F Y
+pick up all of the blocks placed on the table except those blue in color and place them in the bin;G & U S ! B F B
+pick up all of the blocks placed on the table except those green in color and place them in the bin;G & U S ! C F C
+pick up all of the blocks placed on the table except those yellow in color and place them in the bin;G & U S ! Y F Y
+scan and pick up all blocks except blue;G & U S ! B F B
+scan and pick up all blocks except green;G & U S ! C F C
+scan and pick up all blocks except yellow;G & U S ! Y F Y
+put all non blue cubes into the box;G & U S ! B F B
+put all non green cubes into the box;G & U S ! C F C
+put all non yellow cubes into the box;G & U S ! Y F Y
+pick up and put all blocks except blue one s in the basket;G & U S ! B F B
+pick up and put all blocks except green one s in the basket;G & U S ! C F C
+pick up and put all blocks except yellow one s in the basket;G & U S ! Y F Y
+scan the area and if an blue block is placed ignore it any other colored block should be moved to the box;G & U S ! B F B
+scan the area and if an green block is placed ignore it any other colored block should be moved to the box;G & U S ! C F C
+scan the area and if an yellow block is placed ignore it any other colored block should be moved to the box;G & U S ! Y F Y
+pick up and collect all blocks that are not blue;G & U S ! B F B
+pick up and collect all blocks that are not green;G & U S ! C F C
+pick up and collect all blocks that are not yellow;G & U S ! Y F Y
+move your arm from side to side while waiting for blocks to appear then place each block except blue ones into the bin;G & U S ! B F B
+move your arm from side to side while waiting for blocks to appear then place each block except green ones into the bin;G & U S ! C F C
+move your arm from side to side while waiting for blocks to appear then place each block except yellow ones into the bin;G & U S ! Y F Y
+please pick up the objects that are not blue;G & U S ! B F B
+please pick up the objects that are not green;G & U S ! C F C
+please pick up the objects that are not yellow;G & U S ! Y F Y
+pick up all cubes that are not blue and place them into the crate;G & U S ! B F B
+pick up all cubes that are not green and place them into the crate;G & U S ! C F C
+pick up all cubes that are not yellow and place them into the crate;G & U S ! Y F Y
+scan the table for cubes that aren t blue and drop them into the bin;G & U S ! B F B
+scan the table for cubes that aren t green and drop them into the bin;G & U S ! C F C
+scan the table for cubes that aren t yellow and drop them into the bin;G & U S ! Y F Y
+once an object that isn t blue is placed on the ground pick it up and place it in the black bin;G & U S ! B F B
+once an object that isn t green is placed on the ground pick it up and place it in the black bin;G & U S ! C F C
+once an object that isn t yellow is placed on the ground pick it up and place it in the black bin;G & U S ! Y F Y
+pick up all blocks that are not blue and put them in the black container;G & U S ! B F B
+pick up all blocks that are not green and put them in the black container;G & U S ! C F C
+pick up all blocks that are not yellow and put them in the black container;G & U S ! Y F Y
+scan for cubes pick up all but the blue ones and place them in the bin;G & U S ! B F B
+scan for cubes pick up all but the green ones and place them in the bin;G & U S ! C F C
+scan for cubes pick up all but the yellow ones and place them in the bin;G & U S ! Y F Y
+do not pick up any blue blocks;G & U S ! B F B
+do not pick up any green blocks;G & U S ! C F C
+do not pick up any yellow blocks;G & U S ! Y F Y
+if a coloblue block is any color but blue or orange pick it up and put it in the bin;G & U S ! B F B
+if a cologreen block is any color but green or orange pick it up and put it in the bin;G & U S ! C F C
+if a coloyellow block is any color but yellow or orange pick it up and put it in the bin;G & U S ! Y F Y
+if a colored block is any color but red or blue pick it up and put it in the bin;G & U S ! B F B
+if a colored block is any color but red or green pick it up and put it in the bin;G & U S ! C F C
+if a colored block is any color but red or yellow pick it up and put it in the bin;G & U S ! Y F Y
+scan the table top by moving the arm back and forth looking for coloblue cubes pick up all except the blue ones and place them in the bin repeat;G & U S ! B F B
+scan the table top by moving the arm back and forth looking for cologreen cubes pick up all except the green ones and place them in the bin repeat;G & U S ! C F C
+scan the table top by moving the arm back and forth looking for coloyellow cubes pick up all except the yellow ones and place them in the bin repeat;G & U S ! Y F Y
+pick up every color except blue and place in bin;G & U S ! B F B
+pick up every color except green and place in bin;G & U S ! C F C
+pick up every color except yellow and place in bin;G & U S ! Y F Y
+keep your arm in motion only picking up blocks that are not blue;G & U S ! B F B
+keep your arm in motion only picking up blocks that are not green;G & U S ! C F C
+keep your arm in motion only picking up blocks that are not yellow;G & U S ! Y F Y
+pick up and place in bin all blocks except those which are blue in color;G & U S ! B F B
+pick up and place in bin all blocks except those which are green in color;G & U S ! C F C
+pick up and place in bin all blocks except those which are yellow in color;G & U S ! Y F Y
+transfer non blue cube to bin;G & U S ! B F B
+transfer non green cube to bin;G & U S ! C F C
+transfer non yellow cube to bin;G & U S ! Y F Y
+pick up all non blue blocks and place them in the black bin;G & U S ! B F B
+pick up all non green blocks and place them in the black bin;G & U S ! C F C
+pick up all non yellow blocks and place them in the black bin;G & U S ! Y F Y
+pick the object and place in bin while avoiding blue color object;G & U S ! B F B
+pick the object and place in bin while avoiding green color object;G & U S ! C F C
+pick the object and place in bin while avoiding yellow color object;G & U S ! Y F Y
+pick up any block that isn t blue and place it in the bin;G & U S ! B F B
+pick up any block that isn t green and place it in the bin;G & U S ! C F C
+pick up any block that isn t yellow and place it in the bin;G & U S ! Y F Y
+look for and pick up any non blue cubes and put them in crate;G & U S ! B F B
+look for and pick up any non green cubes and put them in crate;G & U S ! C F C
+look for and pick up any non yellow cubes and put them in crate;G & U S ! Y F Y
+pick all the blocks and put them in the bin except the blue blocks;G & U S ! B F B
+pick all the blocks and put them in the bin except the green blocks;G & U S ! C F C
+pick all the blocks and put them in the bin except the yellow blocks;G & U S ! Y F Y
+scan the empty area of the table and pick up any non blue objects moving them to the basket;G & U S ! B F B
+scan the empty area of the table and pick up any non green objects moving them to the basket;G & U S ! C F C
+scan the empty area of the table and pick up any non yellow objects moving them to the basket;G & U S ! Y F Y
+pick up every cube in sight except for blue ones and place them into the basket;G & U S ! B F B
+pick up every cube in sight except for green ones and place them into the basket;G & U S ! C F C
+pick up every cube in sight except for yellow ones and place them into the basket;G & U S ! Y F Y
+scan for blocks pick up any blocks present that are not blue and place in basket;G & U S ! B F B
+scan for blocks pick up any blocks present that are not green and place in basket;G & U S ! C F C
+scan for blocks pick up any blocks present that are not yellow and place in basket;G & U S ! Y F Y
+pick up the object that is not blue and that was placed in the same location as the object prior to the one you re now picking up;G & U S ! B F B
+pick up the object that is not green and that was placed in the same location as the object prior to the one you re now picking up;G & U S ! C F C
+pick up the object that is not yellow and that was placed in the same location as the object prior to the one you re now picking up;G & U S ! Y F Y
+place all blocks that are not blue in to the crate;G & U S ! B F B
+place all blocks that are not green in to the crate;G & U S ! C F C
+place all blocks that are not yellow in to the crate;G & U S ! Y F Y
+scan the area for blocks but do not pick up blue ones;G & U S ! B F B
+scan the area for blocks but do not pick up green ones;G & U S ! C F C
+scan the area for blocks but do not pick up yellow ones;G & U S ! Y F Y
+pick the color blocks up and put them in the black crate but do not pick up any blue color blocks;G & U S ! B F B
+pick the color blocks up and put them in the black crate but do not pick up any green color blocks;G & U S ! C F C
+pick the color blocks up and put them in the black crate but do not pick up any yellow color blocks;G & U S ! Y F Y
+grab the yellow block green blocks and blue block and put them in the box ignore the blue blocks;G & U S ! B F B
+grab the yellow block green blocks and blue block and put them in the box ignore the green blocks;G & U S ! C F C
+grab the yellow block green blocks and blue block and put them in the box ignore the yellow blocks;G & U S ! Y F Y
+scan for coloblue blocks put any block you find except blue into the black crate;G & U S ! B F B
+scan for cologreen blocks put any block you find except green into the black crate;G & U S ! C F C
+scan for coloyellow blocks put any block you find except yellow into the black crate;G & U S ! Y F Y
+pick up all of the blocks except the blue ones and place them in the crate;G & U S ! B F B
+pick up all of the blocks except the green ones and place them in the crate;G & U S ! C F C
+pick up all of the blocks except the yellow ones and place them in the crate;G & U S ! Y F Y

@@ -1,0 +1,115 @@
+You are a Linear Temporal Logic (LTL) expert for robotics. Your answers need to follow the following output format and adhere to specific rules:
+
+1. For all LTL logical formalizations, you must follow the format:  
+   G & U S ! <condition> F <action>,  
+   where <condition> and <action> are atomic propositions.
+
+2. The placeholders <condition> and <action> are always the same for a given instruction.
+
+3. Temporal operators:  
+   - "G": globally (always),  
+   - "U": until,  
+   - "S": since,  
+   - "&": logical AND/conjunction.
+
+4. Only allowed atomic propositions are:  
+   - "Y" for yellow,  
+   - "R" for red,  
+   - "B" for blue,  
+   - "C" for green,  
+   - "A" for any undefined or “any” proposition.
+
+5. When more than one atomic proposition is present, use the one with the negation condition for <condition> and <action>.
+
+6. Use semantic role labeling to clarify the intent:  
+   - **Action**: the target activity (what is being done)  
+   - **Constraint/Avoidance**: colors/objects to avoid or not process  
+   - **Persistence/Default**: "A" is used when there’s no clear restriction or condition
+
+7. For each translation, perform step-by-step chain-of-thought reasoning, identify the semantic roles, and explain how they map to the LTL structure.
+
+Natural language instruction: pick up all cubes that are not red and place them into the crate.
+Given translations: {}
+Explanation:
+- **Semantic Roles**:  
+  - Action: pick up and place cubes  
+  - Constraint: avoid red cubes ("not red")
+- **Condition to avoid**: red ("R")
+- **LTL pattern**: "G & U S ! <condition> F <action>"
+- Since negation is on "red", we use R for both <condition> and <action>.
+- "!R F R" encodes: "for all time, ignore red cubes; do not pick or place them."
+- Thus, final translation: "G & U S ! R F R"
+Explanation dictionary: {"red": "R", "pattern": "G & U S ! <condition> F <action>"}
+So the final LTL translation is: G & U S ! R F R.FINISH
+
+Natural language instruction: transfer all of the non blue blocks into the container staying actively in motion during the process scanning for new blocks to be placed.
+Given translations: {}
+Explanation:
+- **Semantic Roles**:  
+  - Action: transfer/pick blocks  
+  - Constraint: avoid blue blocks ("not blue")
+- **Condition to avoid**: blue ("B")
+- LTL pattern: "G & U S ! <condition> F <action>"
+- Negation applies to blue, so "B" fills both placeholders.
+- "!B F B" encodes: "always ignore blue blocks, pick and transfer all others."
+- Thus, final translation: "G & U S ! B F B"
+Explanation dictionary: {"blue": "B", "pattern": "G & U S ! <condition> F <action>"}
+So the final LTL translation is: G & U S ! B F B.FINISH
+
+Natural language instruction: except for the yellow blocks descend and pick up the other colored blocks and put them in the bin.
+Given translations: {}
+Explanation:
+- **Semantic Roles**:  
+  - Action: pick up and place colored blocks  
+  - Constraint: avoid yellow blocks ("not yellow")
+- **Condition to avoid**: yellow ("Y")
+- LTL pattern: "G & U S ! <condition> F <action>"
+- Negation applies to yellow, so "Y" fills both placeholders.
+- "!Y F Y" encodes: "always avoid yellow blocks, process all others."
+- Thus, final translation: "G & U S ! Y F Y"
+Explanation dictionary: {"yellow": "Y", "pattern": "G & U S ! <condition> F <action>"}
+So the final LTL translation is: G & U S ! Y F Y.FINISH
+
+Natural language instruction: if there are no desired objects on the table top grab objects from the bin.
+Given translations: {}
+Explanation:
+- **Semantic Roles**:  
+  - Action: grab objects from the bin  
+  - Constraint: no specific object to avoid (no condition), default to "A"
+- **Default**: "A" for <condition> and <action>
+- LTL pattern: "G & U S ! <condition> F <action>"
+- "!A F A" encodes: "if no specific condition, act on any available object."
+- Thus, final translation: "G & U S ! A F A"
+Explanation dictionary: {"no condition/other objects": "A", "pattern": "G & U S ! <condition> F <action>"}
+So the final LTL translation is: G & U S ! A F A.FINISH
+
+Natural language instruction: pick up the red block and drop it on the table.
+Given translations: {}
+Explanation:
+- **Semantic Roles**:  
+  - Action: pick up red block and drop  
+  - Constraint: no negation, no specific restriction, so default is "A"
+- **Default**: "A" for <condition> and <action>
+- LTL pattern: "G & U S ! <condition> F <action>"
+- "!A F A" encodes: "no restriction; perform the action."
+- Thus, final translation: "G & U S ! A F A"
+Explanation dictionary: {"no condition/other objects": "A", "pattern": "G & U S ! <condition> F <action>"}
+So the final LTL translation is: G & U S ! A F A.FINISH
+
+Natural language instruction: only pick up blocks that are not green and place them in the bin.
+
+Given translations: {}
+
+Explanation:
+- **Semantic Roles**:  
+  - Action: pick up and place blocks  
+  - Constraint: avoid green blocks ("not green")
+- **Condition to avoid**: green ("C")
+- LTL pattern: "G & U S ! <condition> F <action>"
+- Negation applies to green, so "C" fills both placeholders.
+- "!C F C" encodes: "always avoid green blocks, process all others."
+- Thus, final translation: "G & U S ! C F C"
+
+Explanation dictionary: {"green": "C", "pattern": "G & U S ! <condition> F <action>"}
+
+So the final LTL translation is: G & U S ! C F C.FINISH

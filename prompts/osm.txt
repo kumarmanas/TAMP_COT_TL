@@ -1,0 +1,52 @@
+You are a Linear Temporal Logic (LTL) expert for drone planning domain. Your answers need to follow the following output format and adhere to specific rules:
+ 1. Remember that U means "until", G means "globally", F means "finally" or "eventually".
+ 2. The formula should only contain operators [|, &, ~, U, G, F].
+ 3. Atomic propositions allowed = [Bookstore, Science_Library, Chipotle, Starbucks, Kabob_and_Curry, CVS, Citizens_Bank, Barus_Building, FedEx_Office, Watson_Center, Nelson_Fitness_Center, Marston_Hall]
+
+Translate the following natural language sentences into an LTL formula, ensuring adherence to the above rules and the specified patterns. Use semantic role labeling as well for help. Derive translation step by step and use chain-of-thought reasoning process.
+Natural Language: Move to the yellow room avoiding landmark one. If you reach the yellow room, you can visit landmark one.
+Given translations: {}
+Explanation: As per semantic role yellow room is destination and landmark one is path to be avoided. Action is to move to the yellow room (destination) avoiding landmark one. Yellow room and landmark one are key propositions. Order is to avoid landmark one (path) until yellow room (destination) reached. Once yellow room reached, landmark one can be visited. So this order is encoded with U (until) operator.
+So final translation is "~(landmark_1) U (yellow_room)".
+Explanation dictionary: {"landmark one" : "landmark_1", "yellow room" : "yellow_room", "avoiding", "~", "implicit until", "U"}
+So the final LTL translation is: ~(landmark_1) U (yellow_room).FINISH
+Natural Language: Go to landmark one while always avoiding the yellow room.
+Given translations: {}
+Explanation: As per semantic role landmark one is destination and yellow room is path to be avoided.Action is go to landmark one. Landmark one and yellow room are propositions denoted by "yellow_room" and "landmark_1". There is a constraint of "while always avoiding the yellow room". Yellow room is the proposition to avoid.The core action is to eventually get to landmark one (the destination). "F" represents eventually achieving the goal proposition. 
+~yellow_room encodes the constraint of avoiding yellow room.This constraint applies "while" going to landmark one
+"F" applies to the entire clause "F(landmark_1 & ~yellow_room)". This encodes the eventual goal state of being at landmark_1 while avoiding yellow_room
+G would imply avoiding yellow_room indefinitely, even after reaching landmark_1, so do not use "G" here. "F" represents satisfying the constraint until "landmark_1" is reached, but not indefinitely. "&" a logical AND is connecting the sub-condition.
+So in summary, "F" is the correct operator to encode eventually getting to the goal "landmark_1" while satisfying the "~yellow_room" constraint along that path, but not necessarily permanently. 
+So final translation is F (landmark_1 & ~ yellow_room)".
+Explanation dictionary: {"landmark one" : "landmark_1", "yellow room" : "yellow_room", "avoiding", "~", "implicit eventually", "F"}
+So the final LTL translation is: F (landmark_1 & ~ yellow_room).FINISH
+Natural Language: Avoid the orange room until you reach the red room. Once at red, you can go to orange.
+Given translations: {}
+Explanation: "Orange room" and "red room" are key propositions. The order constraint is to avoid orange room until red room is reached. ~ represents avoid/don't go to the orange room. "U" represents until. (orange_room) is the proposition to avoid until a point.
+(red_room) is the goal proposition at which point the constraint no longer applies. Once red room is reached, orange room can be visited. U captures the ordering constraint of avoiding one proposition until a goal is met.
+~ encodes the constraint on the initial proposition (orange room). Together "~(orange_room) U (red_room)" encapsulates the constraint until the goal is reached. So in summary, the "U" operator encodes avoiding the initial proposition until the goal proposition is achieved, at which point the constraint no longer applies. 
+So final translation is ~(orange_room) U (red_room)".
+Explanation dictionary: {"orange room" : "orang_room", "red room" : "red_room", "avoid", "~", "until", "U"}
+So the final LTL translation is: ~(orange_room) U (red_room).FINISH
+Natural Language: Stay on the first floor and go directly to the red room.
+Given translations: {}
+Explanation: "First floor" and "red room" are the key propositions. There is a constraint to always stay on the first floor, encoded by "G (first_floor)". "G" encodes the "always" constraint applied to the first floor proposition. The goal is to eventually get to the red room, encoded by "F". "go directly to the red room" will be translated as "F (red_room)" indicating eventually it will go to red room.
+"F" encodes the eventual achievement of getting to the red room."&" logically connects the two clauses. Together this encodes achieving the goal of getting to the red room while always satisfying the constraint of staying on the first floor. "G" represents a persistent constraint, while "F" represents an eventual goal.
+The "&" operator connects the constraint that must persist (first floor) with the goal that will eventually happen (red room). So in summary, the "G" and "F" operators are used to encode a persistent constraint and eventual goal, with the "&" logically connecting the two clauses into the full formula.So final translation is F (red_room) & G (first_floor)".
+Explanation dictionary: {"first floor" : "first_floor", "red room" : "red_room", "eventually", "F", "implicit always", "G"}
+So the final LTL translation is: F (red_room) & G (first_floor).FINISH
+Natural Language: navigate to the purple room by passing through the third floor.
+Given translations: {}
+Explanation: As per semantic role labeling "purple room" is destination and "third floor" is path and they are the key propositions. The instruction specifies passing through the third floor (path) before destination. This establishes an order constraint to go through third floor before purple room. "F" encodes eventually getting to the third floor.
+The second "F" encodes eventually getting to the purple room after passing through third floor.No other constraints are specified in the instructions. The first "F" represents eventually getting to the first step which is "(third floor)".
+The second "F" represents eventually getting to the goal, which is "(purple room)". The order of propositions in the formula encodes the instructed sequence. No operators like G or U are needed since no persistent constraints are mentioned.
+In summary, the two F operators capture the ordered sequence of steps specified in the instructions - eventually passing through the third floor (path) and then eventually getting to the purple room (destination). "&" a logical AND is connecting two sub goals or sequence.
+So final translation is F ( third_floor & F ( purple_room ) )".
+Explanation dictionary: {"third floor" : "third_floor", "purple room" : "purple_room", "eventually", "F", "implicit conjunction", "&"}
+So the final LTL translation is: F ( third_floor & F ( purple_room ) ).FINISH
+Natural Language: move to the first floor.
+Given translations: {}
+Explanation:here as per semantic role labeling, first floor is destination. Also its a key proposition denoted by "first_floor". It says finally move to the first_floor floor denoted by "F(first_floor)".
+So final translation is "F ( first_floor)".
+Explanation dictionary: {"first floor" : "first_floor", "eventually", "F", "implicit conjunction"}
+So the final LTL translation is: F ( first_floor ).FINISH
