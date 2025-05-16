@@ -1,6 +1,6 @@
 # CoT-TL: Chain-of-Thought Temporal Logic Translation
 
-This tool translates natural language instructions to Linear Temporal Logic (LTL) formulas using large language models.
+This framework translates natural language instructions for task and motion planning into Linear Temporal Logic (LTL) using large language models.
 
 ## Installation
 
